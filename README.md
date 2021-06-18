@@ -1,2 +1,2 @@
-# Traffic-Sign-Recogntion
+# Traffic-Sign-Recognition
 Towards Self Driving Car
