@@ -14,8 +14,8 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[img_overview]: ./img/predicted.png "Predictions"
-[image2]: ./img/visual.png "Exploration"
+![alt text][./img/predicted.png]
+
 
 
 ## Rubric Points
@@ -100,7 +100,7 @@ to achieve up to 98 percent on the Validation and training Set
 
 I downloaded all the images from the Germain dataset and Model achieved 99% on the whole dataset Corpus.
 
-![alt text][/img/german_corpus.png] 
+![alt text][./img/german_corpus.png] 
 
 
 
