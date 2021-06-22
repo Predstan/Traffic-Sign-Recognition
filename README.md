@@ -14,7 +14,7 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./img/predicted.png "Predictions"
+[img_overview]: ./img/predicted.png "Predictions"
 [image2]: ./img/visual.png "Exploration"
 
 
