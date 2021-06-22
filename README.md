@@ -51,8 +51,6 @@ Here is an exploratory visualization of the data set. It is a bar chart showing 
 
 Pre-processing refers to techniques such as converting to grayscale, normalization, etc. In the project, I consider normalizing the images by dividing each pixel values by 255.0 so that each pixel values will be in the range of 0 and 1. It give the Model a robust and easier calculations when training and inference.
 
-![alt text][image2]
-
 
 #### 2. Describe what your final model architecture looks like including model type, layers, layer sizes, connectivity, etc.) Consider including a diagram and/or table describing the final model.
 
