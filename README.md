@@ -100,7 +100,7 @@ to achieve up to 98 percent on the Validation and training Set
 
 I downloaded all the images from the Germain dataset and Model achieved 99% on the whole dataset Corpus.
 
-![alt text][./img/german_corpus.png] 
+![alt text][/img/german_corpus.png] 
 
 
 
